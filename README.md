@@ -2,7 +2,7 @@
 
 This is a little link shortener webservice. It is possible to create an account by connecting it to facebook via the Facebook-API. A logged in user is able to manage her links. She can see the click statistics, edit and delete them. Also there is a API for the service.
 
-![alt tag](https://github.com/MoritzGoeckel/PHP-Link-Shortener/blob/master/screenshot.png?raw=true)
+![alt tag](https://github.com/MoritzGoeckel/PHP-Link-Shortener/blob/master/screenshot.PNG?raw=true)
 
 ##Is your service for free?
 Yes.
